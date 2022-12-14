@@ -31,7 +31,7 @@ struct schedule_ride: View {
             VStack{
                 
                 HStack{
-                    Text("c2v")
+                    Text("GoVote")
                     
                         .navigationTitle("wtm")
                         .font(.system(size: 30, weight: .bold))
