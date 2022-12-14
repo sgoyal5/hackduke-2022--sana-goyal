@@ -2,7 +2,7 @@
 //  Helper.swift
 //  hackduke 2022 sana
 //
-//  Created by Sana Goyal on 12/14/22.
+//  Helper
 //
 
 import Foundation

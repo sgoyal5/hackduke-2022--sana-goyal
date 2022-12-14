@@ -1,9 +1,4 @@
-//
-//  PreferenceOfDriverOrgs.swift
-//  GoVote
-//
 
-//
 
 import SwiftUI
 

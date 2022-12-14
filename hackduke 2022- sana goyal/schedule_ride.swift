@@ -2,7 +2,7 @@
 //  ScheduleRide.swift
 //  hackduke 2022 sana
 //
-//  Created by Sana Goyal
+//  Created by Sana Goyal- Schedule a ride
 //
 
 import SwiftUI
@@ -52,23 +52,7 @@ struct schedule_ride: View {
                         VStack{
                             Text("Location")
                         }
-//                            List(model.bubbleslist, id: \.id){ bubble in
-//                                HStack{
-//                                    Image(systemName: "plus.circle.fill")
-//                                        .onTapGesture {
-//                                            print("button pressed")
-//                                            print(bubble.bubble_name)
-//                                            //bubbles_selected.append(item.bubble_name)
-//                                            bubbles_selected.append(bubble.bubble_name)
-////                                                bubble.isselected.toggle()
-////                                                selectedList.append(bubble.bubble_name)
-//                                        }
-//
-//                                    Text(bubble.bubble_name)
-//                                        .frame(maxWidth: .infinity, alignment: .leading)
-//
-//                            }
-//                            }
+
                             
                         }
                     
